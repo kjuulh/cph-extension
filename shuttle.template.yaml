@@ -1,8 +1,8 @@
-name: shuttle-extensions-template
+name: cph-extension
 description: Enhances your experience with shuttle.
 provider: 
   github-release:
     owner: kjuulh
-    repo: shuttle-extensions-template
+    repo: cph-extension
 registry:
   github: kjuulh/shuttle-extensions

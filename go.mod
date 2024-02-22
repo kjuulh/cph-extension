@@ -1,4 +1,4 @@
-module shuttle-extensions-template
+module cph-extension
 
 go 1.21.6
 
